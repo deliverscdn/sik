@@ -1,2 +1,1 @@
-console.log("Delivers Resources");
-fds
+while(true){}
